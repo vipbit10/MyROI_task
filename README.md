@@ -6,7 +6,7 @@
 A responsive and modern EMI (Equated Monthly Installment) calculator built with React. It helps users calculate their monthly payments based on loan amount, interest rate, loan tenure, and optional prepayment. The interface is designed to be intuitive and responsive, with dark/light theme toggling using sun and moon icons.
 
 ## Live Demo
-
+https://my-roi-task-git-main-vipranshs-projects.vercel.app/
 
 ## Features
 
