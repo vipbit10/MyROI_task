@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MyROI_task
 
 # EMI Calculator
